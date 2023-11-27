@@ -1,6 +1,6 @@
 <div align="center" width="50">
   
-### Hi👋 I am SHREYA
+# Hi👋 I am SHREYA
 </div>
 <div align="center" width="50">
 <img src="https://github.com/SHREYA0013/SHREYA0013/blob/main/welcome.gif" alt="Welcome!" width="300"/>
