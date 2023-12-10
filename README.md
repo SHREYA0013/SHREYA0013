@@ -9,7 +9,7 @@
 ## Here are some ideas to get you started:
 
 ### - 🔭 I’m currently working on Python, SQL, Power BI, Excel
-### - 🌱 I’m currently learning Data Analysis
+### - 🌱 I’m currently learning Data Analysis, Data Science
 ### - 👯 I’m looking for a Data Analyst Job
 <!--
 ### - 💬 Ask me about ...
